@@ -5,7 +5,7 @@ This is just a work in progress that may eventually be implemented with some lan
 ## Goals:
 
 <ul>
-  Draw data from some livestreaming platform (Twitch, Youtube, Facebook, Stream.club, etc)
-  Implement language modeling (either via home made modeling or some pre-trained model like GPT or AGI)
-  Build this out into some visualization
+  Draw data from some livestreaming platform (Twitch, Youtube, Facebook, Stream.club, etc)  
+  Implement language modeling (either via home made modeling or some pre-trained model like GPT or AGI)  
+  Build this out into some visualization  
 </ul>
